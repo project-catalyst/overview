@@ -11,9 +11,9 @@ I'll do my best when it seems appropriate to link to more detailed content for t
 The first few lessons are focused on the software that all developers use, and they are mostly language and framework agnostic. After learning the most basic tooling we'll explore the basics of JavaScript and then the React framework for UI development. For the time being the lessons assume you are working on Mac.
 
 ## Lessons
-1. [Using a Command Line Interface](https://github.com/project-catalyst/using-a-cli) (10-15 minutes)
-1. [Installing Homebrew](https://github.com/project-catalyst/installing-homebrew) (5-10 minutes)
-1. [Running a JavaScript Program](https://github.com/project-catalyst/running-a-javascript-program) (? minutes)
+1. [Using a Command Line Interface](https://github.com/project-catalyst/using-a-cli) (? minutes)
+1. [Installing Homebrew](https://github.com/project-catalyst/installing-homebrew) (? minutes)
+1. [Running JavaScript Programs](https://github.com/project-catalyst/running-js-programs) (? minutes)
 1. [Using Git and GitHub](https://github.com/project-catalyst/using-git-and-github) (? minutes)
 1. [Intro to JavaScript](https://github.com/project-catalyst/overview) (? minutes)
 1. [JavaScript Lesson 1: Variables and Data Types](https://github.com/project-catalyst/overview) (? minutes)
