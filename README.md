@@ -23,6 +23,12 @@ The first few lessons are focused on the software that all developers use, and t
 
 ## A Quick Note (optional)
 
-These lessons skip countless numbers of valuable topics. I hear frequently from people who want to begin writing code, but are faced with a steep learning curve or are overwhelmed with too much information before they can create anything. That serves as teh motivation to keep these lessons as lightweight as possible. 
+These lessons skip countless numbers of valuable topics. I hear frequently from people who want to begin writing code, but are faced with a steep learning curve or are overwhelmed with too much information before they can create anything. That serves as the motivation to keep these lessons as lightweight as possible. 
 
-Additionally, creating software is a hobby or career where you'll always be learning. One of the most important skills you can develop is learning how write well crafted Google searches - how to describe your problem. Hopefully by getting developers will be more engaged with the topics they need to learn after they have developed the basic enough skills to apply those lessons.
+Conversely, I also know of people who are bored with introductory coding lessons because they feel as if they are copy and pasting and hitting enter, and as such aren't doing or learning anything themselves. This can be frustrating especially given how far of a gap there is between understand the basics of code and understanding production quality software.
+
+My goal is to work very hard to balance these two concerns. I aim to have a lesson plan that is lightweight enough that you can move through it quickly. At the same time, I hope to be informative and actually teach you about computers, code, and software. 
+
+Creating software is a hobby or career where you'll always be learning. One of the most important skills you can develop is learning how write well crafted Google searches - how to describe your problem. Hopefully completing these lessons will empower you to ask new questions and start creating things you're interested in.
+
+Good luck!
